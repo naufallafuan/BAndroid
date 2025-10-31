@@ -1,0 +1,10 @@
+<extentreports>
+    <configuration>
+        <theme>dark</theme>
+        <encoding>utf-8</encoding>
+        <protocol>https</protocol>
+        <timelineEnabled>true</timelineEnabled>
+        <reportName>My Demo App - Automation Report</reportName>
+        <documentTitle>Cucumber Test Report</documentTitle>
+    </configuration>
+</extentreports>

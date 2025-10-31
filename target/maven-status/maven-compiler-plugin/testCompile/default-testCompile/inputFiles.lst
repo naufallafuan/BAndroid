@@ -1,0 +1,16 @@
+/Users/naufalhafiz/Documents/Automation/b2/BAndroid/src/test/java/Page/BookingPage.java
+/Users/naufalhafiz/Documents/Automation/b2/BAndroid/src/test/java/Page/CartPage.java
+/Users/naufalhafiz/Documents/Automation/b2/BAndroid/src/test/java/Page/CheckoutPage.java
+/Users/naufalhafiz/Documents/Automation/b2/BAndroid/src/test/java/Page/HomePage.java
+/Users/naufalhafiz/Documents/Automation/b2/BAndroid/src/test/java/Page/LoginPage.java
+/Users/naufalhafiz/Documents/Automation/b2/BAndroid/src/test/java/Page/ProductDetailPage.java
+/Users/naufalhafiz/Documents/Automation/b2/BAndroid/src/test/java/Runner/Runner.java
+/Users/naufalhafiz/Documents/Automation/b2/BAndroid/src/test/java/Setup/CapabilitiesSetup.java
+/Users/naufalhafiz/Documents/Automation/b2/BAndroid/src/test/java/Setup/ServerSetup.java
+/Users/naufalhafiz/Documents/Automation/b2/BAndroid/src/test/java/StepDefinitions/AddToCartStep.java
+/Users/naufalhafiz/Documents/Automation/b2/BAndroid/src/test/java/StepDefinitions/CheckoutSteps.java
+/Users/naufalhafiz/Documents/Automation/b2/BAndroid/src/test/java/StepDefinitions/LoginSteps.java
+/Users/naufalhafiz/Documents/Automation/b2/BAndroid/src/test/java/StepDefinitions/SortingSteps.java
+/Users/naufalhafiz/Documents/Automation/b2/BAndroid/src/test/java/Utility/DriverTools.java
+/Users/naufalhafiz/Documents/Automation/b2/BAndroid/src/test/java/Utility/Locator.java
+/Users/naufalhafiz/Documents/Automation/b2/BAndroid/src/test/java/Utility/PropertiesLoader.java

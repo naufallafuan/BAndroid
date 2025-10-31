@@ -1,0 +1,13 @@
+{
+  "appium:app": "//Users//naufalhafiz//Downloads//b.apk",
+  "appium:deviceName": "RRCT201WF9A",
+  "platformName": "android",
+  "appium:automationName": "UIAutomator2",
+  "appium:appPackage": "com.saucelabs.mydemoapp.android",
+  "appium:appActivity": "com.saucelabs.mydemoapp.android.view.activities.SplashActivity",
+  "appium:appWaitActivity": "com.saucelabs.mydemoapp.android.view.activities.*",
+  "appium:noReset": false,
+  "appium:newCommandTimeout": 300,
+  "appium:autoGrantPermissions": true,
+  "appium:adbExecTimeout": 60000
+}
