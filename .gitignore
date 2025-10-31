@@ -1,0 +1,14 @@
+# Maven
+target/
+*.log
+
+# IntelliJ / VSCode
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+
+# Reports
+cucumber-reports/
+extent-reports/
